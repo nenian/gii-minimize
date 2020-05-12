@@ -1,6 +1,6 @@
 # gii-minimize (lightweight molecular dynamics optimization)
 
-gii (global instability index) minimize is an experimental project attempting use simple concepts of bond strain and electrostatics with generic scipy minimize methods to optimize inorganic structures. Ad-hoc parameters used bond-valence [1], and shannon radii [2]. 
+gii (global instability index) minimize is an experimental project attempting use simple concepts of bond strain and electrostatics with generic scipy minimize methods to optimize inorganic structures. Ad-hoc parameters used; bond-valence [1], and shannon radii [2]. 
 
 Good results have been found for rotationally distorted perovskites such as LiNbO3 (a-a-a- glazer tilt) and CaTiO3 (a-a-c+ glazer tilt). Minimizer also identifies local distortions such as the Jahn-Teller distortion in LaMnO3 and polar distortion in tetragonal BaTiO3*
 
